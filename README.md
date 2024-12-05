@@ -1,7 +1,7 @@
 # Portfolio Website - Sumeet Vishwakarma
 
 ## 🚀 Live Demo
-[View Live Website](your-live-url)
+[View Live Website](svish001.github.io/portfolio/)
 
 ## 📝 Project Description
 A professional portfolio showcasing my software development projects, skills, and experience. Built with HTML, CSS, and JavaScript.
