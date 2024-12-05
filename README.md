@@ -1,7 +1,7 @@
 # Portfolio Website - Sumeet Vishwakarma
 
 ## 🚀 Live Demo
-[View Live Website](svish001.github.io/portfolio/)
+svish001.github.io/portfolio/
 
 ## 📝 Project Description
 A professional portfolio showcasing my software development projects, skills, and experience. Built with HTML, CSS, and JavaScript.
@@ -43,7 +43,7 @@ portfolio/
 ## 🚀 Setup & Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/svish001/portfolio.git
 ```
 2. Navigate to project directory
 ```bash
